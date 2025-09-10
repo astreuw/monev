@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/help.png</file>
+    <file>icons/close.png</file>
+    <file>icons/monev.png</file>
+    <file>icons/activated.png</file>
+    <file>icons/check.svg</file>
+  </qresource>
+  <qresource prefix="files">
+    <file>style.qcss</file>
+  </qresource>
+</RCC>
