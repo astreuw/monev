@@ -2,7 +2,7 @@
 A simple keyboard shortcut monitor for Windows.
 
 ## Installation
-You can download the latest version of Monev from the releases page: [Download here](https://github.com/astreuw/monev/releases/tag/beta).
+You can download the latest version of Monev from the releases page: [download here](https://github.com/astreuw/monev/releases).
 
 ## Screenshots
 ![](images/1.png)
